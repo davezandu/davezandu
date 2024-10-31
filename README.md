@@ -1,4 +1,4 @@
-<img width=100% src="./assets/banner.png"/><br><br>
+<img width=100% src="./assets/banner.png"/><br>
 
 # Hello World, eu sou Dave  ☕
 
