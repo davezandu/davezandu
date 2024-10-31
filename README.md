@@ -1,4 +1,4 @@
-![Dave Developer](https://github.com/davezandu/davezandu/assets/banner.png)
+<img width=100% src="./assets/banner.png"/><br><br>
 
 # Hello World, eu sou Dave  ☕
 
@@ -30,7 +30,10 @@ Com 10 anos de experiência em desenvolvimento web e 5 anos focado na plataforma
 # Let's connect 🌐
 Vamos conectar e explorar juntos as oportunidades no mundo digital!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davewebdeveloper/)
+<div>
+  <a href="https://www.linkedin.com/in/davewebdeveloper/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" alt="Linkedin" /></a>
+  <a href="mailto:dls.extreme@yahoo.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=Gmail&logoColor=white" alt="Gmail" /></a>
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
