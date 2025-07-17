@@ -13,7 +13,7 @@ Com 10 anos de experiência em desenvolvimento web e 5 anos focado na plataforma
 # Developer skills 💻
 
 ### Tecnologias usadas no dia a dia
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,jquery,react,php,npm,sass,gulp" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,jquery,react,npm,sass,gulp" />
 
 ### Ferramentas do dia a dia
 <a href="https://skillicons.dev">
@@ -22,7 +22,7 @@ Com 10 anos de experiência em desenvolvimento web e 5 anos focado na plataforma
 
 ### Tecnologias que estou aprendendo
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nextjs,vue,angular,graphql,nodejs,express,laravel" />
+  <img src="https://skillicons.dev/icons?i=php,nextjs,vue,angular,graphql,nodejs,express,laravel" />
 </a>
 
 <br>
